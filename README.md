@@ -1,4 +1,4 @@
-# cardboard-vr-test
+# Cardboard VR Test
 Mobile Google Cardboard VR Test with WebGL
 
 Simple test app to test how easy it is to create Google Cardboard compatible VR apps for phone with three.js.
